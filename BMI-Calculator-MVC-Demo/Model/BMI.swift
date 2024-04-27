@@ -5,4 +5,10 @@
 //  Created by doniyor normuxammedov on 27/04/24.
 //
 
-import Foundation
+import UIKit
+
+struct BMI {
+    let value: Float
+    let advice: String
+    let color: UIColor
+}
